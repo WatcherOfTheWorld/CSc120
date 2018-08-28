@@ -1,0 +1,36 @@
+# Feiran Yang
+
+# Test 1 (edge case)
+# This tests if file is empty
+empty file
+# End of the test
+
+# Test 2 (Error)
+# This tests if file not exist
+not exist file
+# End of the test
+
+# Test 3 (Error)
+# This tests if the input data formate is not legit
+TaylorShane
+Taylor Brian Shane
+# End of the test 
+
+# Test 4 (regular)
+# This tests file contain repeat lines
+Taylor Brian
+Erika Tyler
+Shane Taylor
+Brian Erika
+Tyler Shane
+Taylor Brian
+Erika Tyler
+Shane Taylor
+Brian Erika
+Tyler Shane
+# End of the test
+
+# Test 5 (regular)
+# This tests if user input file has lots of lines
+//file has lots of lines
+# End of the test

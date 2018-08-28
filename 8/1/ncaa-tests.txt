@@ -1,0 +1,26 @@
+# Feiran Yang
+
+# Test 1 (edge case)
+# This tests if file is empty
+empty file
+# End of the test
+
+# Test 2 (Error)
+# This tests if file not exist
+not exist file
+# End of the test
+
+# Test 3 (Error)
+# This tests if the data formate is not good
+mens,2017-03-12,False,1.0,0.987632001748,0.803221306689,0.589206003986,zero.401737091759,0.241125213558,0.149953842962,True,222,Villanova,95.18,East,1
+# End of the test 
+
+# Test 4 (regular)
+# This tests if file have lot of lines
+file has lot of lines
+# End of the test
+
+# Test 5 (regular)
+# This tests if file has few lines
+file has few lines
+# End of the test

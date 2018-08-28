@@ -1,0 +1,25 @@
+# Test 1 (edge case)
+# This tests see if it can handle empty str in user input
+
+# End of the test
+
+# Test 2 (Error)
+# This tests see if it can handle legal str in input file
+asd123
+# End of the test
+
+# Test 3 (Error)
+# This tests if the data in placement file is not legal
+A 0 1 0 3
+# End of the test 
+
+# Test 4 (regular)
+# This tests if the user input is very long
+asdjsdkhzbmxvn
+# End of the test
+
+# Test 5 (regular)
+# This tests if a word have more than one pronuciation
+RECORD   R  AH0  K  AO1  R  D
+RECORD   R  IH0  K  AO1  R  D
+# End of the test

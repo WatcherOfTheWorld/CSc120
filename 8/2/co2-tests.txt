@@ -1,0 +1,32 @@
+# Feiran Yang
+
+# Test 1 (edge case)
+# This tests if file is empty
+empty file
+# End of the test
+
+# Test 2 (Error)
+# This tests if file not exist
+not exist file
+# End of the test
+
+# Test 3 (Error)
+# This tests if the input data formate is not legit
+3
+1958.5
+2012
+# End of the test 
+
+# Test 4 (regular)
+# This tests if user input is not in the range of year in the file
+4
+1900
+1957
+# End of the test
+
+# Test 5 (regular)
+# This tests if user input is crossing over range of year in the file
+5
+1920
+2020
+# End of the test

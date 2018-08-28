@@ -1,0 +1,11 @@
+Dragon: 550.53125
+Dragon: 550.53125
+Dragon: 83.3125
+Gallifreyan: 130.0
+Gallifreyan: 97.5
+Dragon: 550.53125
+Dragon: 83.3125
+Flying: 102.5
+Steel: 126.37037037037037
+Gallifreyan: 130.0
+Flying: 102.5

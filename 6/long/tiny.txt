@@ -1,0 +1,6 @@
+IN  IH0 N
+IN  IH1 N
+IN'S  IH0 N Z
+IN'S  IH1 N Z
+IN.  IH1 N
+IN.  IH1 N CH
